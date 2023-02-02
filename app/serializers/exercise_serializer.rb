@@ -1,3 +1,3 @@
 class ExerciseSerializer < ActiveModel::Serializer
-  attributes :id
+  attributes :id, :name, :target,  :bodyPart, :equipment, :gifUrl
 end
