@@ -1,0 +1,87 @@
+:root {
+  --color1: #e6e7e2;
+  --color2: #d3e3fc;
+  --color3: #77a6f7;
+  --color4: #ec724d;
+  --color5: #008879;
+  --color6: #fbe8a6;
+  --color7: #f4976c;
+  --color8: #303c6c;
+  --color9: #398385d2;
+  --color10: #b4dfe5;
+  --color11: #a4b792;
+  --color12: #6e81d6;
+  --color13: #e040fb;
+}
+
+/* b4dfe5*/
+*/ .accountBody {
+  /* display: flex;
+     justify-content: center; */
+  /* display: block;
+    text-align: center; */
+}
+
+/* background-color: aliceblue; */
+
+.accountInput {
+  border-radius: 20px;
+  background: rgba(248, 244, 244, 0.588);
+  border: 2px solid rgba(0, 0, 0, 0.523);
+}
+
+.accountButton {
+  background: linear-gradient(to right, #a4b792, #a4b792, #f4976c);
+  border-radius: 5em;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.welcomeGreeting {
+  color: white;
+  margin: auto;
+  padding-bottom: 10px;
+  border: 3px solid white;
+  border-radius: 10px;
+  color: #fff;
+  background: linear-gradient(to right, #a4b792, #f4976c);
+  box-shadow: 0px 0px 2px 2px;
+  text-align: center;
+  max-width: 60rem;
+}
+.displayButton {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.updateButton {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* .line{
+        border-bottom: solid;
+    } */
+.greaterSection {
+  background-color: #e6e7e2;
+  /* width: max-content; */
+  padding-left: 15px;
+  padding-right: 15px;
+  /* margin-left: 205px; */
+}
+
+.wiggly {
+  background-color: #e6e7e2;
+}
+/* e6e7e2 */
+
+/* ffff
+    d3e3fc
+    77a6f7
+    ffccbc
+    008879 
+    fbe8a6
+    f4976c
+    303c6c
+    d2fdff
+    b4dfe5*/
