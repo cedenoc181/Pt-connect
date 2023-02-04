@@ -1,0 +1,369 @@
+/* .ptcard {
+   text-decoration: underline;
+} */
+
+.ptImg {
+  width: 230px;
+  height: 230px;
+  border-radius: 150%;
+  float: left;
+  margin-left: 35px;
+}
+
+.ptimages {
+  width: 200px;
+  height: 200px;
+  border-radius: 150%;
+  margin-left: 15px;
+}
+
+.ptNetwork {
+  font-weight: bold;
+}
+
+.ptStudies {
+  font-weight: bold;
+}
+
+.ptSpec {
+  font-weight: bold;
+}
+.ptFirstLastName {
+  font-style: italic;
+}
+
+.meetPt {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-style: italic;
+  font-size: xx-large;
+  /* color: transparent; */
+}
+
+.ptAbout {
+  width: fit-content;
+  margin-left: 300px;
+  text-align: center;
+  font-size: larger;
+  background-color: rgba(240, 248, 255, 0.396);
+  padding: 20px;
+  border: solid 1px black;
+  border-radius: 30px;
+}
+
+.pt-info {
+  margin-left: 20px;
+  margin-top: 90px;
+  margin-bottom: 15px;
+  background-color: rgba(240, 248, 255, 0.396);
+  padding: 20px;
+  border: solid 1px black;
+  border-radius: 30px;
+  width: fit-content;
+}
+
+.ptFirstLastName {
+  font-size: x-large;
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
+
+.aboutCred {
+  font-style: italic;
+}
+
+.aboutMe {
+  font-style: italic;
+  text-align: center;
+  margin-right: 270px;
+  color: transparent;
+}
+
+.testDiv {
+  border: solid 2px;
+  border-bottom: black;
+}
+
+/* This is the review section ////////////////////////////////////////////////////////////////////////////// */
+.testi {
+  text-align: center;
+  font-style: italic;
+}
+
+/* .box2 {
+        display: block;
+        text-align: center;
+    } */
+.testPost {
+  display: block;
+  text-align: center;
+  background: #f4976c;
+  padding-bottom: 30px;
+  border: solid 1px;
+  border-bottom: black;
+}
+
+.Rlabel {
+  font-style: italic;
+  font-size: 23px;
+}
+
+.RcapInput {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  width: 30%;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 1px;
+  background: rgba(248, 244, 244, 0.588);
+  padding: 5px 20px;
+  border-radius: 20px;
+  outline: none;
+  box-sizing: border-box;
+  border: 2px solid rgba(0, 0, 0, 0.523);
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.RcapSub {
+  margin-top: 15px;
+  width: 150px;
+  height: 35px;
+  cursor: pointer;
+  border-radius: 5em;
+  color: #fff;
+  background: linear-gradient(to right, #a4b792, #a4b792, #f4976c);
+}
+
+.testimonies {
+  font-style: italic;
+  font-size: 35px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.Rhead {
+  /* text-decoration: underline; */
+  /* margin-left: 665px; */
+  font-size: 23px;
+}
+
+.Rpic {
+  display: inline-block;
+  margin-right: 70px;
+  border-radius: 10px;
+  width: 150px;
+}
+
+/* p {
+    padding: 30px;
+    border: solid 1px black;
+    } */
+
+.Rrev {
+  width: 800px;
+  margin-left: 100px;
+  background-color: rgba(240, 248, 255, 0.396);
+  padding: 30px;
+  border: solid 1px black;
+  border-radius: 30px;
+  /* display: block; */
+  /* margin: 0 auto; */
+  text-align: center;
+  float: left;
+}
+
+/* this is where reviews classes ends //////////////////////////////////////////////////////////////////*/
+
+/* this is where the scheduling of appointment classes are /////////////////////////////////////////////////////////////*/
+
+.Ca {
+  background-color: #fff;
+  padding-bottom: 30px;
+  justify-items: center;
+  border: solid 2px;
+  border-bottom: black;
+}
+
+.appBelow {
+  font-style: italic;
+  text-align: center;
+  font-size: x-large;
+}
+
+.datePicker {
+  margin-top: 20px;
+  width: 260px;
+}
+
+.dateSelected {
+  text-align: center;
+}
+
+.claimLabel {
+  display: block;
+  text-align: center;
+  font-style: italic;
+  font-size: 23px;
+}
+
+.box {
+  text-align: center;
+}
+
+.claimInput {
+  /* margin-left: 640px; */
+  margin-top: 20px;
+  width: 30%;
+  color: rgb(38, 50, 56);
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 1px;
+  background: #a4b7927e;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 20px;
+  /* outline: none; */
+  box-sizing: border-box;
+  border: 2px solid rgba(0, 0, 0, 0.523);
+  text-align: center;
+  justify-self: center;
+  font-family: "Ubuntu", sans-serif;
+}
+.inqHome {
+  display: block;
+  text-align: center;
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(38, 56, 42);
+  font-weight: 700;
+}
+
+.inqHomeInput {
+  width: 15px;
+  height: 15px;
+  margin-left: 5px;
+}
+
+.appbutton {
+  height: 35px;
+  cursor: pointer;
+  border-radius: 5em;
+  color: #fff;
+  background: linear-gradient(to right, #a4b792, #a4b792, #f4976c);
+}
+
+/* this is where appointments end /////////////////////////////////////////////////////////////// */
+
+.providers {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.book-furtherout {
+  cursor: pointer;
+  text-decoration: underline;
+  margin-left: 35%;
+  padding-bottom: 25px;
+  position: relative;
+  font-size: large;
+}
+
+.book-furtherout::before {
+  content: "";
+  position: absolute;
+  width: 430px;
+  height: 4px;
+  border-radius: 4px;
+  background-color: #e45513;
+  bottom: 20px;
+  left: -17px;
+  transform-origin: right;
+  transform: scaleX(0);
+  transition: transform 0.3s ease-in-out;
+}
+
+.book-furtherout:hover::before {
+  transform-origin: left;
+  transform: scaleX(1);
+}
+
+.ptContainer {
+  /* background-color: #a4b792; */
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-evenly;
+  list-style-type: none;
+  border-radius: 25px;
+  margin-left: 10em;
+  margin-right: 10em;
+}
+.pt-img-con {
+  /* padding-top: 20px; */
+  /* display: inline-block; */
+}
+
+.ptInfo {
+  margin-left: 20px;
+}
+.localPtCon {
+  background-color: #f4976c;
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.localPt {
+  align-self: center;
+}
+
+.localPtSearch {
+  align-self: center;
+  margin-right: 130px;
+  padding-bottom: 20px;
+}
+
+.writing {
+  height: 25px;
+  width: 170%;
+  color: rgb(38, 50, 56);
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 1px;
+  background: rgba(248, 244, 244, 0.588);
+  padding: 5px 20px;
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  box-sizing: border-box;
+  border: 2px solid rgba(0, 0, 0, 0.02);
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.out {
+  background-color: azure;
+}
+
+.outterDiv {
+  background-color: #a4b792;
+  padding: 35px;
+  /* padding-right:40px; */
+  border: 2px black;
+  border-radius: 45px;
+  margin-bottom: 30px;
+}
+.ptcard {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  margin-right: 2.5rem;
+  max-width: 100%;
+  min-width: 100%;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  border: 3px;
+  box-shadow: 0px 0px 2px 2px;
+}
