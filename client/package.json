@@ -1,8 +1,11 @@
 {
-  "name": "frontend",
+  "name": "react-rails-api-project-template-client",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3000",
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
